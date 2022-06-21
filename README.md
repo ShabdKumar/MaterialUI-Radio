@@ -141,7 +141,7 @@ This library is useful for providing material designs effects in radio button/gr
 <hr/>
 
 ## Code Contribution:
-If you find any problems during usage, you can submit an [Issue](https://github.com/Applib-OpenHarmony/MeterialRadio/issues) to us. Of course, we also welcome you to send us [PR](https://github.com/Applib-OpenHarmony/MeterialRadio/pulls).
+The Material-Radio component has been open sourced, and everyone is welcome to contribute. In case you find any problems during usage, you can submit an [Issue](https://github.com/Applib-OpenHarmony/MeterialRadio/issues) to us. We also welcome you to send us [PR](https://github.com/Applib-OpenHarmony/MeterialRadio/pulls).
 
 <hr/>
 
