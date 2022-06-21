@@ -2,9 +2,9 @@
 
 **Material Design** is the standard for designing and creating websites and apps. It’s been a response to old, user-unfriendly, and chaotic design styles and its aim is to bring order and unity to web design.
 
-Material Design was inspired by the physical world. What Material Design did was move away from designing completely flat UIs to designing surfaces that were inspired by paper and ink. Think of it like this:
+Material Design was inspired by the physical world. What Material Design did was move away from designing completely flat UIs to designing surfaces that were inspired by paper and ink. Think of it like this: 
 
-`When looked at head-on, a sheet of paper appears flat and two-dimensional. However, in the real world, that’s not actually how it behaves.`
+*When looked at head-on, a sheet of paper appears flat and two-dimensional. However, in the real world, that’s not actually how it behaves.*
 
 Paper exists in three dimensions. Sheets of paper create shadows, seams, and folds and can be cut and resized for our needs — recreated in the digital space with Material Design. 
 
