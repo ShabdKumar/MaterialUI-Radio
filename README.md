@@ -1,8 +1,8 @@
 ## Material Design
 
-**Material Design** is a design standard for ceating and designing websites and apps. Material design was introduced to bring order and unity to web design.
+**Material Design** is a design standard for creating and designing websites and apps. Material design was introduced to bring order and unity to web design.
 
-Material design concept was inspired by paper and ink in the physical world.As paer exists in three dimensions having shadows, folds and can be cut and resized - same goes for material design. It removed flat UI's with three dimensions designs.
+Material design concept was inspired by paper and ink in the physical world.As paper exists in three dimensions having shadows, folds and can be cut and resized - same goes for material design. It removed the flat UI's with three dimensions designs.
 
 **Examples of Material Design:**
 
