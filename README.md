@@ -6,8 +6,8 @@ Material design concept was inspired by paper and ink in the physical world.As p
 
 **Examples of Material Design:**
 
-<img src="screenshots/materialDesign1.jpg" width="200" height="100">
-<img src="screenshots/materialDesign2.png" width="200" height="100">
+<img src="screenshots/MaterialDesign1.jpg" width="200" height="100">
+<img src="screenshots/MaterialDesign2.PNG" width="200" height="100">
 
 ## Radio Button
 
