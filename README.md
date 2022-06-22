@@ -1,18 +1,24 @@
 ## Material Design
 
-**Material Design** is the standard for designing and creating websites and apps. It’s been a response to old, user-unfriendly, and chaotic design styles and its aim is to bring order and unity to web design.
+**Material Design** is a design standard for ceating and designing websites and apps. Material design was introduced to bring order and unity to web design.
 
-Material Design was inspired by the physical world. What Material Design did was move away from designing completely flat UIs to designing surfaces that were inspired by paper and ink. Think of it like this: 
+Material design concept was inspired by paper and ink in the physical world.As paer exists in three dimensions having shadows, folds and can be cut and resized - same goes for material design. It removed flat UI's with three dimensions designs.
 
-*When looked at head-on, a sheet of paper appears flat and two-dimensional. However, in the real world, that’s not actually how it behaves.*
+**Examples of Material Design:**
 
-Paper exists in three dimensions. Sheets of paper create shadows, seams, and folds and can be cut and resized for our needs — recreated in the digital space with Material Design. 
+<img src="screenshots/materialDesign1.jpg" width="200" height="100">
+<img src="screenshots/materialDesign2.png" width="200" height="100">
 
 ## Radio Button
 
-A radio button or option button is a graphical control element that allows the user to choose only one of a predefined set of mutually exclusive options.
+A radio button is a component used to select only one option from a predefined set of options, therefore it is also called as ***option button***.
 
-Radio buttons are arranged in groups of two or more and displayed on screen as a list of circular holes that can contain white space (for unselected) or a dot (for selected). The choices are mutually exclusive; when the user selects a radio button, any previously selected radio button in the same group becomes deselected.
+Radio buttons are used where users need to select only one option out of 2 or more options. These options contain circular white space. If any option is selected then circular white space is getting filled with a dot.
+If any option is already selected and you will click on any other option then the first option will be deselected.
+
+In the image below **One** is *selected*, **Two** & **Three** are *deselected*.
+
+<img src="screenshots/RadioButtonExample.png" width="100" height="100">
 
 <hr/>
 
@@ -141,7 +147,7 @@ This library is useful for providing material designs effects in radio button/gr
 <hr/>
 
 ## Code Contribution:
-The Material-Radio component has been open sourced, and everyone is welcome to contribute. In case you find any problems during usage, you can submit an [Issue](https://github.com/Applib-OpenHarmony/MeterialRadio/issues) to us. We also welcome you to send us [PR](https://github.com/Applib-OpenHarmony/MeterialRadio/pulls).
+If you find any problems during usage, you can submit an [Issue](https://github.com/Applib-OpenHarmony/MeterialRadio/issues) to us. Of course, we also welcome you to send us [PR](https://github.com/Applib-OpenHarmony/MeterialRadio/pulls).
 
 <hr/>
 
