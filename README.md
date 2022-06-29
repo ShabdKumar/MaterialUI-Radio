@@ -1,12 +1,10 @@
-## Material Design
+## 1. Introduction
 
 **Material Design** is a design standard for creating and designing websites and apps. Material design was introduced to bring order and unity to web design.
 
 Material design concept was inspired by paper and ink in the physical world. As paper exists in three dimensions having shadows, folds and can be cut and resized - same goes for material design. It removed the flat UI's with three dimensional designs.
 
-## Radio Button
-
-A radio button is a component used to select only one option from a predefined set of options, therefore it is also called as ***option button***.
+A **radio button** is a component used to select only one option from a predefined set of options, therefore it is also called as ***option button***.
 
 Radio buttons are used where users need to select only one option out of 2 or more options. These options contain circular white space. If any option is selected then circular white space is getting filled with a dot.
 If any option is already selected and you will click on any other option then the first option will be deselected.
@@ -17,15 +15,9 @@ In the image below **One** is *selected*, **Two** & **Three** are *deselected*.
 
 <hr/>
 
-**Library Name:** Material Radio Button
+## 2. Benefits
 
-**Library Version:** API 8 and above
-
-**Library Release Date:** 06/06/2022
-
-**Library Overview (Description):** This library is developed to provide material radio button/group implemented using extended typescript.
-
-**GitHub link:** [https://github.com/Applib-OpenHarmony/MeterialRadio](https://github.com/Applib-OpenHarmony/MeterialRadio)
+* 
 
 <hr/>
 
