@@ -17,11 +17,20 @@ In the image below **One** is *selected*, **Two** & **Three** are *deselected*.
 
 ## 2. Benefits
 
-* 
+* Offers an element of flexibility.
+* Material Designs provides clean and intuitive interface.
+* Can be applied to complex and rare usecases.
+* Having a vast set of guidelines and documentations.
 
 <hr/>
 
-## Download & Install:
+## 3. List of Features
+
+
+
+<hr/>
+
+## 4. Download & Install:
 
 Install using npm: 
 ```
@@ -32,7 +41,7 @@ Details about OpenHarmony NPM environment configuration, click [here](https://gi
 
 <hr/>
 
-## Usage Instructions:
+## 5. Usage Instructions:
 
 1. Import files and code dependencies
 
@@ -78,7 +87,7 @@ RadioGroup(
 
 <hr/>
 
-## Library Features:
+## 6. Library Features:
 
 ### Feature-1: 
 
@@ -128,16 +137,12 @@ RadioGroup({
 
 <hr/>
 
-## Conclusion:
+## 7. Conclusion:
 This library is useful for providing material designs effects in radio button/group components. We can also give other specification like whether radio button is checked, disabled and a callback function to listen for changes on the radio button check status.
 
 <hr/>
 
-## Code Contribution:
+## 8. Code Contribution:
 If you find any problems during usage, you can submit an [Issue](https://github.com/Applib-OpenHarmony/MeterialRadio/issues) to us. Of course, we also welcome you to send us [PR](https://github.com/Applib-OpenHarmony/MeterialRadio/pulls).
 
 <hr/>
-
-## Reference:
-
-**Designed by:** Dharma Seelan
