@@ -24,9 +24,7 @@ In the image below **One** is *selected*, **Two** & **Three** are *deselected*.
 
 MaterialRadio library can be implemented in most of the commonly used applications where users have to select only one option out of many. Below are some of the examples:
 
-<img src="screenshots/usecase1.PNG" width="200" height="200">
-<img src="screenshots/usecase2.PNG" width="200" height="200">
-<img src="screenshots/usecase3.PNG" width="200" height="200">
+<img src="screenshots/usecase1.PNG" width="200" height="200"><img src="screenshots/usecase2.PNG" width="200" height="200"><img src="screenshots/usecase3.PNG" width="200" height="200">
 
 ## 4. List of Features:
 
@@ -161,7 +159,7 @@ Below are list of properties available:
 |Properties|Description|
  |:-:|:-:|
  | `setRingColor`|Changing color of radio button circle|
- | `setDisabled` |making radio button enable or disabled|
+ | `setDisabled` |making radio button enabled or disabled|
  | `checked`|showing radio button is selected or deselected by default|
  |||
 
