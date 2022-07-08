@@ -154,7 +154,7 @@ RadioButton({
 In above code one radio button was created, where button color was set to blue and was enabled for selection. By default it was deselected. While clicking button one toast will appear giving message "Radio button selected::*buttonid*"
 
 
-Below are list of properties available:
+***Below are list of properties available:***
 
 |Properties|Description|
  |:-:|:-:|
