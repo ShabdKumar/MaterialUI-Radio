@@ -19,6 +19,8 @@ In the image below **One** is *selected*, **Two** & **Three** are *deselected*.
 * Material Design provides a clean and intuitive interface.
 * Can be applied to complex and rare use cases.
 * Having a vast set of guidelines and documentation.
+* User can see all options at once.
+* Quicker and Easier to use.
 
 ## 3. Typical UseCases:
 
