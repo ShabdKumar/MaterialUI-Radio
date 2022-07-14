@@ -33,7 +33,8 @@ MaterialRadio library can be implemented in most of the commonly used applicatio
 There are few features of Radio buttons listed below:
 
 ***1. Enabled:*** Radio button can be selected. (Vastly used in application)
-```
+
+```ts
 RadioButton({
     model: this.radioModel1,
     onCheckChange: this.onRadioCheck
@@ -41,7 +42,8 @@ RadioButton({
 ```
 
 ***2. Disabled:*** Radio button can't be selected.
-```
+
+```ts
 aboutToAppear() {
     this.radioModel2.setDisabled(true);
 }
@@ -52,7 +54,8 @@ RadioButton({
 ```
 
 ***3. Checked and Enabled:*** Radio button will be selected by default. While clicking the dot will show some ripple effect.
-```
+
+```ts
 RadioButton({
     model: this.radioModel3,
     checked: true,
@@ -61,7 +64,8 @@ RadioButton({
 ```
 
 ***4. Checked and Disabled:*** Radio button will be selected and can't be deselected. This button appears a little bit off color.
-```
+
+```ts
 aboutToAppear() {
     this.radioModel4.setDisabled(true);
 }
@@ -76,34 +80,35 @@ Please refer below Image:
 
 <img src="screenshots/radioButtons_Types.PNG" width="300" height="300">
 
-## 5. Download & Install:
+## 5. Usage Instructions:
 
-Install using npm: 
+1. Add dependencies:
+
+Add following to the dependencies in package.json file in entry folder of your project:
+
+```json
+{
+    "dependencies": {
+    "@ohos/material-radio": "file:../materialradio"
+  }
+}
 ```
-npm i ohos-material-radio
-```
 
-Details about OpenHarmony NPM environment configuration, click [here](https://gitee.com/openharmony-tpc/docs/blob/master/OpenHarmony_npm_usage.md). 
+2. Import files:
 
-<hr/>
-
-## 6. Usage Instructions:
-
-1. Import files and code dependencies
-
-```ets
+```ts
 import { RadioButton, RadioGroup, RadioOption, RadioModel }  from '@ohos/material-radio'
 ```
 
-2. Initialize model data
+3. Initialize model data:
 
-```
+```ts
 private radioModel: RadioModel = new RadioModel(1, "Radio Label")
 ```
 
-3. Code for creating radio button
+4. Code for creating radio button:
 
-```
+```ts
 RadioButton({
     checked: true,
     model: this.radioModel,
@@ -115,9 +120,9 @@ RadioButton({
 
 <img src="screenshots/radioButtons_Radio-Buttons.png" width="300" height="500">
 
-4. Code for creating radio group
+5. Code for creating radio group:
 
-```
+```ts
 RadioGroup(
     {
         selectedRadioId: 1,
@@ -131,7 +136,7 @@ RadioGroup(
 
 <img src="screenshots/radioButtons_Radio-Group.png" width="300" height="500">
 
-## 7. Library Features:
+## 6. Library Features:
 
 ### Feature-1: 
 
@@ -139,7 +144,7 @@ RadioGroup(
 
 ***Code Snippet:***
 
-```
+```ts
 private radioModel: RadioModel = new RadioModel(1, “Radio Button”)
 radioModel.setRingColor(Color.Blue);
 radioModel.setDisabled(false);
@@ -177,7 +182,7 @@ In above code one radio button was created, where button color was set to blue a
 
 ***Code Snippet:***
 
-```
+```ts
 private radioOptions: RadioOption [] = [
     new RadioOption(1, “Option 1”),
     new RadioOption(2, “Option 2”),
@@ -199,8 +204,8 @@ In the above code one Radio Group was created with 3 sets of options. By default
 
 <img src="screenshots/radioButtons_feature-2.jpg" width="300" height="500">
 
-## 8. Conclusion:
+## 7. Conclusion:
 This library is useful for providing material designs effects in radio button/group components. We can also give other specifications like whether the radio button is checked, disabled and a callback function to listen for changes on the radio button check status.
 
-## 9. Code Contribution:
+## 8. Code Contribution:
 If you find any problems during usage, you can submit an [Issue](https://github.com/Applib-OpenHarmony/MeterialRadio/issues) to us. Of course, we also welcome you to send us [PR](https://github.com/Applib-OpenHarmony/MeterialRadio/pulls).
